@@ -178,6 +178,5 @@ int main(){
     for(auto x: v){
         cout << x.ma << "  " << x.name << "  " << x.hang << "  " << x.dv << "  " << x.nhap << "  " << x.ban << endl;
     }
-    cout << "hello world"<< endl;
     return 0;
 }
