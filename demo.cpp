@@ -25,5 +25,6 @@ int main(){
     for(int i=0;i<k;i++){
         cout << a[i + index] << " ";
     }
+    cout <<"sua ngay 7/9/2024"<< endl;
     return 0;
 }
